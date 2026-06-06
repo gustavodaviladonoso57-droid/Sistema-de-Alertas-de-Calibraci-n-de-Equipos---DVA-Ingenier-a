@@ -6,7 +6,7 @@ y seguimiento de vencimientos de calibración de equipos patrón del
 departamento de calificaciones y validaciones de DVA Ingeniería.
 
 ## Problema que resolvía
-El área manejaba más de 80 equipos patrón con diferentes frecuencias 
+El área manejaba demasiados equipos patrón con diferentes frecuencias 
 de calibración. Sin un sistema de alertas, los equipos podían vencer 
 sin ser detectados, generando retrasos en los servicios de calificación.
 
